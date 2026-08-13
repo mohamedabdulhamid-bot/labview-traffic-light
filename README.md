@@ -1,5 +1,5 @@
 ## Project Video
-[Click here to watch the full system demonstration on Google Drive](https://www.youtube.com/shorts/3GkN0_UhZyo)
+[Click here to watch the full system demonstration on Youtube](https://www.youtube.com/shorts/3GkN0_UhZyo)
 
 # Basic Traffic Light Simulation in LabVIEW
 
