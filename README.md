@@ -1,3 +1,6 @@
+## Project Video
+[Click here to watch the full system demonstration on Google Drive](https://www.youtube.com/shorts/3GkN0_UhZyo)
+
 # Basic Traffic Light Simulation in LabVIEW
 
 A simple traffic light control system using flat sequence structure in LabVIEW. 
