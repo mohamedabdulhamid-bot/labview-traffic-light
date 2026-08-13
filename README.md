@@ -1,12 +1,11 @@
-## Project Video
-[Click here to watch the full system demonstration on Youtube](https://www.youtube.com/shorts/3GkN0_UhZyo)
-
 # Basic Traffic Light Simulation in LabVIEW
-
 A simple traffic light control system using flat sequence structure in LabVIEW. 
 This project demonstrates basic timing control and sequential logic implementation.
 
-**Features:**
+## Project Video
+[Click here to watch the full system demonstration on Youtube](https://www.youtube.com/shorts/3GkN0_UhZyo)
+
+## Features
 - Sequential green-red light control  
 - Configurable timing parameters
 - Basic LED state management
